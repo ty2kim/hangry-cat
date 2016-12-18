@@ -1,0 +1,11 @@
+{
+  "name": "hangry-cat",
+  "version": "1.0.0",
+  "description": "Food Pickup application where users can place orders and get message when the order is ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TAE YOUNG KIM",
+  "license": "ISC"
+}
